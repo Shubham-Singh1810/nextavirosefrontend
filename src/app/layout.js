@@ -53,6 +53,15 @@ export default function RootLayout({ children }) {
           {children}
 
           <ToastContainer position="top-right" autoClose={4000} />
+          <div className="flotWhatsappIcon">
+  <a
+    href="https://wa.me/9708077542"  // replace this with your desired number
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536445.png" alt="WhatsApp" />
+  </a>
+</div>
           <script
             src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
             integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"

@@ -86,6 +86,7 @@ export default function Home() {
       <Footer />
 
       <FooterNav selectedItem="Home" />
+      
     </>
   );
 }

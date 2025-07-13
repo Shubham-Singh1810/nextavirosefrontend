@@ -3682,3 +3682,13 @@ text-align: center;
   height: 30px;
   margin-right: 10px;
 }
+.flotWhatsappIcon{
+  display: flex;
+  justify-content: end;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+.flotWhatsappIcon img{
+  height: 50px;
+}
