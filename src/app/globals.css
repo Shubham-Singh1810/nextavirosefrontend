@@ -3678,3 +3678,7 @@ text-align: center;
   width: 100% !important;
 }
 }
+.social-icons img{
+  height: 30px;
+  margin-right: 10px;
+}

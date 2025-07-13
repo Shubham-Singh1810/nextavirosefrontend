@@ -43,54 +43,20 @@ const page = () => {
     <>
       <Navbar selectedItem="Contact" />
       <div className="contact-page d-flex flex-column align-items-center">
-        <div className="contact-head d-flex flex-column align-items-center ">
-          <h1>Contact Us</h1>
-          <p className="text-center">
+       
+<div className="contact-main ">
+  <div className="mb-5">
+          <h1 className="text-danger">Contact Us</h1>
+          <p className="">
             Reach out to us for any inquiries, feedback, or support. Our team is
             ready to assist you.
           </p>
         </div>
-
-        <div className="contact-details d-flex gap-4 justify-content-center">
-          <div className="contact-detail">
-            <img src="/assets/location.png"></img>
-            <div>
-              <h5>ADDRESS</h5>
-              <p>Shriram Enterprises (Hyzenith) </p>
-              <p>Mfg Unit - Anagol Industrial Estate, Belagavi, Karnataka-590001, Bharat.</p>
-              <p>Office - Vidyagiri, Bauxite Road, Belagavi, Karnataka-590001, Bharat.</p>
-            </div>
-          </div>
-
-          <div className="contact-detail">
-            <img src="assets/mail.png"></img>
-            <div>
-              <h5>MAIL US</h5>
-            <p style={{ wordBreak: "break-word" }}>
-  hyzenith24@gmail.com – for general inquiries
-</p>
-<p style={{ wordBreak: "break-word" }}>
-  shriramenterprises.query@gmail.com – for bulk and B2B orders
-</p>
-
-            </div>
-          </div>
-
-          <div className="contact-detail">
-            <img src="assets/call.png"></img>
-            <div>
-              <h5>CALL US</h5>
-              <p>+91 7619564291 </p>
-              <p>+8313145890 </p>
-              <p>(Mon–Sat, 9 AM–6 PM IST)</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="contact-main d-flex justify-content-center">
+  <div className="d-flex justify-content-center">
+     
           <div className="contact-map">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d28127.959504969855!2d87.47897828361309!3d25.78244898364153!3m2!1i1024!2i768!4f13.1!2m1!1sStation%20Club%20Road%2C%20Near%20%20Navratan%20Durga%20Asthan%2C%20NH%2031%2C%20Purnia%20-%20854301%20(BR!5e0!3m2!1sen!2sus!4v1747892117458!5m2!1sen!2sus"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3435.7650141166987!2d88.35328402498803!3d22.53081257952162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02777fe1714fb5%3A0x9f7e1117b710131d!2sThe%20Residence!5e1!3m2!1sen!2sin!4v1716106633156!5m2!1sen!2sin"
               className="iframe"
               allowFullScreen=""
               loading="lazy"
@@ -139,9 +105,9 @@ const page = () => {
                 <div className="col">
                   <input
                     type="text"
-                    name="website"
-                    placeholder="Website"
-                    value={formData.website}
+                    name="subject"
+                    placeholder="Subject"
+                    value={formData.subject}
                     onChange={handleChange}
                     required
                   />
@@ -163,9 +129,43 @@ const page = () => {
               </button>
             </form>
           </div>
+  </div>
         </div>
+        <div className="contact-details d-flex gap-4 justify-content-center">
+          <div className="contact-detail">
+            <img src="/assets/location.png"></img>
+            <div>
+              <h5>ADDRESS</h5>
+
+              <p>Office : 1C/2 Fourth floor, Chowbaga Road ,Kolkata 700039</p>
+              <p>
+                Residence : 5B/ 12 Ballygunge Circular Road , Kolkata 700019
+              </p>
+            </div>
+          </div>
+
+          <div className="contact-detail">
+            <img src="assets/mail.png"></img>
+            <div>
+              <h5>MAIL US</h5>
+              <p style={{ wordBreak: "break-word" }}>contact@avirose.in</p>
+              <p style={{ wordBreak: "break-word" }}>rits2807@gmail.com</p>
+            </div>
+          </div>
+
+          <div className="contact-detail">
+            <img src="assets/call.png"></img>
+            <div>
+              <h5>CALL US</h5>
+              <p>+91 9434386623</p>
+              <p>+91 8100929525 </p>
+            </div>
+          </div>
+        </div>
+
+        
       </div>
-       <FooterNav selectedItem="Menu" />
+      <FooterNav selectedItem="Menu" />
       <Footer />
     </>
   );

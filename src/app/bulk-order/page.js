@@ -63,14 +63,14 @@ function Page() {
       <div className="container aboutMain">
         <form onSubmit={handleSubmit}>
           <div className="row my-md-5 my-2 mx-0 mx-md-2 shadow bg-light">
-            <div className="col-md-4 col-12 d-flex justify-content-between px-0">
+            <div className="col-md-5 col-12 d-flex justify-content-between px-0">
               <img
                 style={{ width: "100%" }}
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrRIC_d4vuPvpayrbji1YuZ4G2Lagioq4pHQ&s"
+                src="/assets/bulk.png"
                 className="img-fluid"
               />
             </div>
-            <div className="col-md-8 my-auto col-12 p-sm-4 p-2">
+            <div className="col-md-7 my-auto col-12 p-sm-4 p-2">
               <div className="row col-12 p-md-3 p-0">
                 <h1 className="py-md-4 py-3">Place Bulk Order</h1>
                 <div className="col-md-6 col-12 mb-2">

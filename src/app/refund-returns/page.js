@@ -17,11 +17,11 @@ const page = () => {
         <div className="row align-items-center text-center justify-content-center my-sm-5 my-2 py-2">
           <div className="col-md-9 col-12 d-flex flex-column align-items-center">
             <h2 className="mb-3 text-center" style={{ maxWidth: "600px" }}>
-              Hyzenith Return, Replacement & Cancellation Policy
+              Avirose Return, Replacement & Cancellation Policy
             </h2>
             <p>
-              At Hyzenith - Home Hygiene Solutions, we care about your
-              satisfaction and hygiene needs. We follow a transparent return
+              At Avirose - We care about your
+              satisfaction and needs. We follow a transparent return
               policy to ensure a smooth and trustworthy shopping experience.
             </p>
           </div>
@@ -182,7 +182,7 @@ const page = () => {
           <div  className="p-4 shadow-sm h-100">
             <h3  className="mb-3 text-danger text-center"> Return Shipping </h3>
 
-            <p>Hyzenith covers return shipping if the error is on our end (damaged/wrong product).</p>
+            <p>Avirose covers return shipping if the error is on our end (damaged/wrong product).</p>
             <p> In other cases, the return shipping cost will be borne by the customer.</p>
             <p>We are not responsible for any loss or damage to hardware during shipment.</p>
           </div>

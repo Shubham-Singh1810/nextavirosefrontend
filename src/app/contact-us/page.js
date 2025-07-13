@@ -56,8 +56,7 @@ const page = () => {
             <div>
               <h5>ADDRESS</h5>
               <p>
-                Station Club Road, Near Navratan Durga Asthan, NH 31, Purnia -
-                854301 (BR)
+                Office : 1C/2 Fourth floor, Chowbaga Road ,Kolkata 700039
               </p>
             </div>
           </div>

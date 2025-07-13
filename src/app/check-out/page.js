@@ -547,7 +547,7 @@ const [step, setStep] = useState(() => {
           </div>
        
         <h4 className="text-success mb-3 text-center">🎉 Order Placed Successfully!</h4>
-        <p className="mb-4 text-center">Thank you for shopping with Hyzenith!</p>
+        <p className="mb-4 text-center">Thank you for shopping with Avirose!</p>
 
        
           </div>

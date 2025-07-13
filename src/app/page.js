@@ -58,7 +58,7 @@ export default function Home() {
       <InfoContainer />
       <ProductSlider
         title="Most Popular"
-        subTitle="Discover flavours in demand"
+        subTitle="Discover trends in demand"
         productList={productlist?.filter((v, i) => {
           return v?.productApperence == "Popular";
         })}

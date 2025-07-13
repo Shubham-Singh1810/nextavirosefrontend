@@ -1,7 +1,7 @@
-"use client"
+"use client";
 
 import React from "react";
-import Link from 'next/link';
+import Link from "next/link";
 
 const Footer = () => {
   return (
@@ -13,21 +13,29 @@ const Footer = () => {
               src="/assets/aviroselogo.png"
               alt="logo"
               className="img-fluid "
-              style={{height:"80px", borderRadius:"4px"}}
+              style={{ height: "80px", borderRadius: "4px" }}
             />
             <p className="text-white mt-4">
-            We’re passionate about creating effective and gentle hygiene products that enhance your
-             daily routine. Our specialty lies in offering natural, safe solutions
-              that cater to diverse skin types and health needs.
-             We make personal care healthier and more enjoyable for everyone.
+              It is here that I found my adopted mother Meera Tamang, under
+              whose loving care my twin boys grew up. My project AVIROSE is my
+              tribute to her and all the people of the North-East, the people
+              who are as beautiful and pure-hearted as nature’s bounty of this
+              region.
             </p>
 
             <div className="social-icons d-flex gap-2 mt-4">
-              <img src="/assets/facebook.png" />
-              <img src="/assets/twitter.png" />
-              <img src="/assets/linkedin.png" />
-              <img src="/assets/instagram.png" />
-              <img src="/assets/youtube.png" />
+              <a href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg==" target="_blank" className="twitter">
+                <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png"/>
+              </a>
+              <a href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg=="  target="_blank" className="facebook">
+                <img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png"/>
+              </a>
+              <a href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg==" target="_blank" className="instagram">
+                <img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png"/>
+              </a>
+              <a href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg==" target="_blank" className="linkedin">
+                <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png"/>
+              </a>
             </div>
           </div>
 
@@ -35,13 +43,28 @@ const Footer = () => {
             <h6>Explore Links</h6>
             <hr></hr>
             <div className="footer-links">
-              <Link href="/cookie-policy"> <p>Cookie Policy</p> </Link>
+              <Link href="/cookie-policy">
+                {" "}
+                <p>Cookie Policy</p>{" "}
+              </Link>
               {/* <p>Disclaimer</p> */}
-              <Link href="/term-conditions"><p>Terms & Condition</p></Link>
-              <Link href="/privacy-policy"><p>Privacy Policy</p></Link>
-              <Link href="/refund-returns"><p>Refund & Returns</p> </Link>
-                <Link href="/shipping-policy"> <p>Shipping Policy</p> </Link>
-              <Link href="/contact">  <p>Contact Us</p></Link>
+              <Link href="/term-conditions">
+                <p>Terms & Condition</p>
+              </Link>
+              <Link href="/privacy-policy">
+                <p>Privacy Policy</p>
+              </Link>
+              <Link href="/refund-returns">
+                <p>Refund & Returns</p>{" "}
+              </Link>
+              <Link href="/shipping-policy">
+                {" "}
+                <p>Shipping Policy</p>{" "}
+              </Link>
+              <Link href="/contact">
+                {" "}
+                <p>Contact Us</p>
+              </Link>
             </div>
           </div>
 
@@ -49,21 +72,18 @@ const Footer = () => {
             <h6>Contact us</h6>
             <hr></hr>
             <p>
-              PARASHURAM MD
-Plot No 46, Survey No 41/A/1 Bauxite Road
-Vidyagiri, Azam Nagar
-Belagavi, Karnataka, 590010
-India
+              Office 1C/2 Fourth floor, Chowbaga Road ,Kolkata 700039 Residence
+              : 5B/ 12 Ballygunge Circular Road ,
             </p>
-            <p>hyzenith24@gmail.com </p>
-            <p>+91 7619564291</p>
-            <p>+8313145890</p>
+            <p>contact@avirose.in</p>
+            <p>+91 9434386623</p>
+            <p>+91 8100929525</p>
           </div>
         </div>
 
         <div className="d-flex flex-wrap justify-content-between mt-4 pt-4 pb-5">
           <p className="mb-0 pb-2 text-light">
-            © 2024. All Rights Reserved Hyzenith®(ShriRam Enterprises)
+            © 2024. All Rights Reserved Avirose
           </p>
           <div className="d-flex gap-3">
             <img src="/assets/paypal.png" className="company-img" />
@@ -78,7 +98,7 @@ India
             Developed by{" "}
             <span className="geent-text">
               <a href="https://dousoft.in/" target="blank">
-                dousoft It Solution Pvt Ltd
+                avirosedecor.com
               </a>
             </span>{" "}
           </p>
