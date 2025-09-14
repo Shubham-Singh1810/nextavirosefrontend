@@ -16,25 +16,37 @@ const Footer = () => {
               style={{ height: "80px", borderRadius: "4px" }}
             />
             <p className="text-white mt-4">
-              It is here that I found my adopted mother Meera Tamang, under
-              whose loving care my twin boys grew up. My project AVIROSE is my
-              tribute to her and all the people of the North-East, the people
-              who are as beautiful and pure-hearted as nature’s bounty of this
-              region.
+              AVIROSE is rooted in simplicity and elegance. We avoid loud colors, complex patterns, and coarse fabrics. Each product is designed to reflect calm, comfort, and connection with nature.
             </p>
 
             <div className="social-icons d-flex gap-2 mt-4">
-              <a href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg==" target="_blank" className="twitter">
-                <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png"/>
+              <a
+                href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg=="
+                target="_blank"
+                className="twitter"
+              >
+                <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" />
               </a>
-              <a href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg=="  target="_blank" className="facebook">
-                <img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png"/>
+              <a
+                href="https://www.facebook.com/profile.php?id=61577758325686"
+                target="_blank"
+                className="facebook"
+              >
+                <img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" />
               </a>
-              <a href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg==" target="_blank" className="instagram">
-                <img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png"/>
+              <a
+                href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg=="
+                target="_blank"
+                className="instagram"
+              >
+                <img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" />
               </a>
-              <a href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg==" target="_blank" className="linkedin">
-                <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png"/>
+              <a
+                href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg=="
+                target="_blank"
+                className="linkedin"
+              >
+                <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" />
               </a>
             </div>
           </div>
@@ -72,8 +84,8 @@ const Footer = () => {
             <h6>Contact us</h6>
             <hr></hr>
             <p>
-              Office 1C/2 Fourth floor, Chowbaga Road ,Kolkata 700039 Residence
-              : 5B/ 12 Ballygunge Circular Road ,
+              Orion Garden View Flat No : 3A1, 3rd Floor 18 Paymental Garden
+              Lane Kolkata - 700015
             </p>
             <p>contact@avirose.in</p>
             <p>+91 9434386623</p>

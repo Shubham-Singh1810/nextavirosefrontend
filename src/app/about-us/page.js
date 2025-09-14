@@ -24,9 +24,9 @@ const page = () => {
     },
     {
       img: " https://cdn-icons-png.flaticon.com/128/2006/2006789.png",
-      title: "PURPOSE",
+      title: "MISSION STATEMENT",
       subtitle: [
-        "Avirose products are created with the aim to provide a sustainable livelihood to the local women artisans and to promote and preserve their embroidery craftsmanship. The home linen items have been made with the purpose of creating happy spaces that make us feel close to nature.",
+        "At Avirose, our mission is to foster sustainable lifestyles through beautifully crafted home furnishings and décor. We design spaces that are clean, inviting, and visually pleasing, creating environments that promote tranquility and well-being. Our goal is to design homes that homeowners eagerly return to after a long day of work—an oasis where they can relax, rejuvenate, and prepare for the challenges ahead. Bengal, with its rich tapestry of diverse art forms, is a constant source of inspiration for us. Our team at Avirose works closely with skilled artisans, harnessing their expertise in weaving and embroidery to create exquisite home furnishings and décor. We proudly showcase these creations in international markets, celebrating the craftsmanship and traditions of the region. Beyond home interiors, we also design for office spaces and caravans, offering a wide range of products including wall art, room dividers, eco-friendly bags, caps, knitted woolens for infants and toddlers, silk-embroidered stoles and scarves, decorative boxes, and thoughtful return gifts. At Avirose, we are dedicated to making every space beautiful, functional, and sustainable.",
       ],
     },
   ];
@@ -81,15 +81,7 @@ const page = () => {
           <div className="col-md-6 my-auto col-12 px-0 px-md-2 ">
             <h1><b>Discover the Story Behind Avirose!</b></h1>
             <p className="pe-md-3 pe-0">
-              Before I started my entrepreneurial journey in 2022, I had spent a
-              significant part of my life in the North-Eastern region of India,
-              moving from Jalpaiguri, Siliguri, Kalimpong, and Darjeeling. The
-              pristine mountains and the smiling happy people of the region left
-              an unforgettable imprint on my mind . It is here that I found my
-              adopted mother Meera Tamang, under whose loving care my twin boys
-              grew up. My project AVIROSE is my tribute to her and all the
-              people of the North-East, the people who are as beautiful and
-              pure-hearted as nature’s bounty of this region.
+             It is here, amidst the serene hills of Darjeeling and Kalimpong, that I found my true inspiration. My project AVIROSE is my tribute to this land and its people — as beautiful and pure-hearted as the natural bounty of the North-East.
             </p>
           </div>
           <div className="col-md-6  col-12 px-0 px-md-2">
