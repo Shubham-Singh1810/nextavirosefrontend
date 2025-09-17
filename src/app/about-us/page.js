@@ -92,10 +92,19 @@ const page = () => {
               <b>Discover the Story Behind Avirose!</b>
             </h1>
             <p className="pe-md-3 pe-0">
-              It is here, amidst the serene hills of Darjeeling and Kalimpong,
-              that I found my true inspiration. My project AVIROSE is my tribute
-              to this land and its people — as beautiful and pure-hearted as the
-              natural bounty of the North-East.
+              Avirose is more than just a brand—it is a journey rooted in heritage, nature, and the power of women’s creativity. <br/>
+
+The inspiration began in founder Ritu Gupta’s childhood, watching her grandmother and aunt create intricate hand-embroidered art. Their delicate work was admired as a symbol of elegance, leaving a lasting impression on her. Years later, during a visit to her ancestral home in Delhi, she felt a deep connection to their legacy and the desire to bring their artistry back to life. This moment sowed the seeds of Avirose. <br/>
+
+Before launching the brand in 2022, Ritu spent several years living across the North-Eastern region of India—Jalpaiguri, Siliguri, Kalimpong, and Darjeeling. The untouched natural beauty and the warmth of the people shaped her worldview and continue to influence her designs. It was here that she met Meera Tamang, who became a mother figure and lovingly helped raise her twin boys. Avirose stands as a heartfelt tribute to her, and to the people of the North-East, whose purity, grace, and simplicity embody the spirit of the brand. <br/>
+
+The name Avirose means a strong woman leader. True to its meaning, the brand empowers women to create peaceful, positive environments in their homes. It honors all women who use their skills to nurture families and transform ordinary spaces into sanctuaries of peace and happiness. <br/>
+
+Avirose’s tagline—“Simply Sophisticated”—captures its design philosophy: elegant yet subtle furnishings that make a house feel like home. Working with a team of skilled women artisans, many from rural backgrounds, Avirose creates delicate embroidery and handcrafted products that reflect calm, comfort, and a deep connection to nature. <br/>
+
+Each creation—whether home linens, décor, accessories, or thoughtful gifts—is inspired by Bengal’s rich art forms and the vibrant flora of the Eastern Himalayas. Every piece is not just handmade—it is heart-made. <br/>
+
+At its core, Avirose is a story of heritage revived, nature reimagined, and women empowered.
             </p>
           </div>
           <div className="col-md-6  col-12 px-0 px-md-2">
