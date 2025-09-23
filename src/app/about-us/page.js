@@ -12,7 +12,7 @@ const page = () => {
       img: " https://cdn-icons-png.flaticon.com/128/11495/11495248.png",
       title: "ABOUT THE FOUNDER",
       subtitle: [
-        `I’m Ritu Gupta — a nature enthusiast, a Doctorate in Botany, and the proud founder of Avirose. The idea for Avirose took root in the serene hills of the North-Eastern Himalayas, where my research journeys into the forests of Jalpaiguri, Siliguri, Kalimpong, and Darjeeling opened my eyes to the vibrant natural world. These landscapes weren’t just picturesque—they were deeply inspiring. Their textures, colors, and quiet elegance continue to flow through every Avirose creation. `,
+        `I’m Dr. Ritu Gupta — a nature enthusiast, a Doctorate in Botany, and the proud founder of Avirose. The idea for Avirose took root in the serene hills of the North-Eastern Himalayas, where my research journeys into the forests of Jalpaiguri, Siliguri, Kalimpong, and Darjeeling opened my eyes to the vibrant natural world. These landscapes weren’t just picturesque—they were deeply inspiring. Their textures, colors, and quiet elegance continue to flow through every Avirose creation. `,
         "Avirose is also a tribute to the women who shaped me. Watching my grandmother and aunt create intricate hand embroidery instilled in me a love for art that endures to this day. Later, while living in the North-East, I met Meera Tamang, who became a mother figure to me. Her love and care while raising my twin sons taught me the power of simplicity, grace, and resilience. Avirose reflects both these legacies—an ode to tradition, nature, and the women who nurture beauty in everyday life.",
       ],
     },
@@ -41,21 +41,21 @@ const page = () => {
   ];
 
   const certifications = [
-    {
-      title: "ISO 9001:2015",
-      description:
-        "Assurance of a robust quality management system—yielding consistent products, optimized processes, and continuous improvement.",
-    },
+    // {
+    //   title: "ISO 9001:2015",
+    //   description:
+    //     "Assurance of a robust quality management system—yielding consistent products, optimized processes, and continuous improvement.",
+    // },
     {
       title: "IndiaMART Trust Seal",
       description:
         "Verified supplier credentials that ensure secure and trustworthy transactions.",
     },
-    {
-      title: "GeM Registered",
-      description:
-        "Authorized to seamlessly serve government and public-sector clients via the e-Marketplace.",
-    },
+    // {
+    //   title: "GeM Registered",
+    //   description:
+    //     "Authorized to seamlessly serve government and public-sector clients via the e-Marketplace.",
+    // },
     {
       title: "MSME Registered",
       description:
@@ -92,19 +92,41 @@ const page = () => {
               <b>Discover the Story Behind Avirose!</b>
             </h1>
             <p className="pe-md-3 pe-0">
-              Avirose is more than just a brand—it is a journey rooted in heritage, nature, and the power of women’s creativity. <br/>
-
-The inspiration began in founder Ritu Gupta’s childhood, watching her grandmother and aunt create intricate hand-embroidered art. Their delicate work was admired as a symbol of elegance, leaving a lasting impression on her. Years later, during a visit to her ancestral home in Delhi, she felt a deep connection to their legacy and the desire to bring their artistry back to life. This moment sowed the seeds of Avirose. <br/>
-
-Before launching the brand in 2022, Ritu spent several years living across the North-Eastern region of India—Jalpaiguri, Siliguri, Kalimpong, and Darjeeling. The untouched natural beauty and the warmth of the people shaped her worldview and continue to influence her designs. It was here that she met Meera Tamang, who became a mother figure and lovingly helped raise her twin boys. Avirose stands as a heartfelt tribute to her, and to the people of the North-East, whose purity, grace, and simplicity embody the spirit of the brand. <br/>
-
-The name Avirose means a strong woman leader. True to its meaning, the brand empowers women to create peaceful, positive environments in their homes. It honors all women who use their skills to nurture families and transform ordinary spaces into sanctuaries of peace and happiness. <br/>
-
-Avirose’s tagline—“Simply Sophisticated”—captures its design philosophy: elegant yet subtle furnishings that make a house feel like home. Working with a team of skilled women artisans, many from rural backgrounds, Avirose creates delicate embroidery and handcrafted products that reflect calm, comfort, and a deep connection to nature. <br/>
-
-Each creation—whether home linens, décor, accessories, or thoughtful gifts—is inspired by Bengal’s rich art forms and the vibrant flora of the Eastern Himalayas. Every piece is not just handmade—it is heart-made. <br/>
-
-At its core, Avirose is a story of heritage revived, nature reimagined, and women empowered.
+              Avirose is more than just a brand—it is a journey rooted in
+              heritage, nature, and the power of women’s creativity. <br />
+              The inspiration began in founder Dr. Ritu Gupta’s childhood,
+              watching her grandmother and aunt create intricate
+              hand-embroidered art. Their delicate work was admired as a symbol
+              of elegance, leaving a lasting impression on her. Years later,
+              during a visit to her ancestral home in Delhi, she felt a deep
+              connection to their legacy and the desire to bring their artistry
+              back to life. This moment sowed the seeds of Avirose. <br />
+              Before launching the brand in 2022,Dr. Ritu spent several years
+              living across the North-Eastern region of India—Jalpaiguri,
+              Siliguri, Kalimpong, and Darjeeling. The untouched natural beauty
+              and the warmth of the people shaped her worldview and continue to
+              influence her designs. It was here that she met Meera Tamang, who
+              became a mother figure and lovingly helped raise her twin boys.
+              Avirose stands as a heartfelt tribute to her, and to the people of
+              the North-East, whose purity, grace, and simplicity embody the
+              spirit of the brand. <br />
+              The name Avirose means a strong woman leader. True to its meaning,
+              the brand empowers women to create peaceful, positive environments
+              in their homes. It honors all women who use their skills to
+              nurture families and transform ordinary spaces into sanctuaries of
+              peace and happiness. <br />
+              Avirose’s tagline—“Simply Sophisticated”—captures its design
+              philosophy: elegant yet subtle furnishings that make a house feel
+              like home. Working with a team of skilled women artisans, many
+              from rural backgrounds, Avirose creates delicate embroidery and
+              handcrafted products that reflect calm, comfort, and a deep
+              connection to nature. <br />
+              Each creation—whether home linens, décor, accessories, or
+              thoughtful gifts—is inspired by Bengal’s rich art forms and the
+              vibrant flora of the Eastern Himalayas. Every piece is not just
+              handmade—it is heart-made. <br />
+              At its core, Avirose is a story of heritage revived, nature
+              reimagined, and women empowered.
             </p>
           </div>
           <div className="col-md-6  col-12 px-0 px-md-2">

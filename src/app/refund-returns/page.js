@@ -9,7 +9,6 @@ const page = () => {
   return (
     <>
       <Navbar />
-
       <div
         className="policy-page d-flex flex-column align-items-center mt-lg-4 mt-0"
         style={{ fontFamily: "'Nunito Sans', sans-serif" }}
@@ -125,27 +124,27 @@ const page = () => {
                           href="mailto:shriramenterprises.query@gmail.com"
                           className="text-danger text-decoration-none ms-1 "
                         >
-                          shriramenterprises.query@gmail.com
+                          info@aviroseinteriors.com
                         </a>
                       </li>
                       <li className="mb-2 d-flex flex-wrap align-items-start ">
                         📱 <strong>WhatsApp/Call:</strong>
                         <a
-                          href="tel:+917619564291"
+                          href="tel:+919434386623"
                           className="text-danger text-decoration-none ms-1 "
                         >
-                          +91 76195 64291
+                          +91 94343 86623
                         </a>
                       </li>
                       <li className="mb-2 d-flex flex-wrap align-items-start ">
                         🌐 <strong>Website:</strong>
                         <a
-                          href="https://www.hyzenith.com"
+                          href="https://aviroseinteriors.com"
                           className="text-danger text-decoration-none ms-1"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
-                          www.hyzenith.com
+                          www.aviroseinteriors.com
                         </a>
                       </li>
                     </ul>

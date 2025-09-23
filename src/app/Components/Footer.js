@@ -48,6 +48,14 @@ const Footer = () => {
               >
                 <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" />
               </a>
+              <a
+                href="https://www.instagram.com/avirose_in?igsh=MTdlamVtMmpucWVodg=="
+                target="_blank"
+                className="linkedin"
+              >
+                <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" />
+              </a>
+              
             </div>
           </div>
 
@@ -84,10 +92,9 @@ const Footer = () => {
             <h6>Contact us</h6>
             <hr></hr>
             <p>
-              Orion Garden View Flat No : 3A1, 3rd Floor 18 Paymental Garden
-              Lane Kolkata - 700015
+              E/402/0104E/402/0104 SPANDAN NEWTOWN SP SHUKHOBRISTI AA-III NORTH 24 PARGANAS WEST BENGAL 700135
             </p>
-            <p>contact@avirose.in</p>
+            <p>info@aviroseinteriors.com</p>
             <p>+91 9434386623</p>
             <p>+91 8100929525</p>
           </div>

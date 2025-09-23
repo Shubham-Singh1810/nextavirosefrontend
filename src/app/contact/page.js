@@ -136,10 +136,9 @@ const page = () => {
             <div>
               <h5>ADDRESS</h5>
 
-              <p className="mb-0">Orion Garden View</p>
-              <p className="mb-0">Flat No : 3A1, 3rd Floor</p>
-              <p className="mb-0">18 Paymental Garden Lane</p>
-              <p className="mb-0">Kolkata - 700015</p>
+              <p className="mb-0">E/402/0104E/402/0104</p>
+              <p className="mb-0">SPANDAN NEWTOWN SP SHUKHOBRISTI AA-III</p>
+              <p className="mb-0">NORTH 24 PARGANAS WEST BENGAL 700135</p>
             </div>
           </div>
 
@@ -147,7 +146,7 @@ const page = () => {
             <img src="assets/mail.png"></img>
             <div>
               <h5>MAIL US</h5>
-              <p style={{ wordBreak: "break-word" }}>contact@avirose.in</p>
+              <p style={{ wordBreak: "break-word" }}>info@aviroseinteriors.com</p>
               <p style={{ wordBreak: "break-word" }}>
                 avirose.homedecor@gmail.com
               </p>
