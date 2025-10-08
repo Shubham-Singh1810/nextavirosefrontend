@@ -86,7 +86,7 @@ import { Range } from 'react-range';
 const PriceFilter = ({values , setValues}) => {
   const STEP = 1;
   const MIN = 0;
-  const MAX = 2000;
+  const MAX = 5000;
 
   // const [values, setValues] = useState([50, 300]);
 

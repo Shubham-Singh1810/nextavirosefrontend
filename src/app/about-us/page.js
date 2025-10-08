@@ -20,9 +20,9 @@ const page = () => {
       img: "https://cdn-icons-png.flaticon.com/128/33/33308.png",
       title: "ABOUT THE BRAND",
       subtitle: [
-        "Avirose—meaning a strong woman leader—is rooted in the belief that every woman has the power to transform her home into a sanctuary of peace, happiness, and positivity. Our tagline, “Simply Sophisticated,” captures our design philosophy: elegance with subtlety, beauty that whispers rather than shouts.",
+        "Avirose is rooted in the belief that every woman has the power to transform her home into a sanctuary of peace, happiness, and positivity. Our tagline, “Simply Sophisticated,” captures our design philosophy: elegance with subtlety, beauty that whispers rather than shouts.",
         "We work closely with skilled women artisans—many from rural backgrounds—who bring their expertise in embroidery, weaving, and handcrafting to every product. Each creation is designed to be simple, nature-inspired, and soulfully elegant. From home linens and cushion covers to eco-friendly bags, embroidered stoles, wall décor, and handcrafted treasures, every item is handmade with love and guided by thoughtful design.",
-        "Avirose celebrates women’s creativity as an asset, not a liability, honoring their ability to create peaceful, positive environments for families and society. Each product is not just handmade—it’s heart-made.",
+        
       ],
     },
     {
@@ -30,8 +30,8 @@ const page = () => {
       title: "MISSION STATEMENT",
       subtitle: [
         "At Avirose, our mission is to foster sustainable lifestyles through beautifully crafted home furnishings and décor. We design spaces that are clean, inviting, and serene—an oasis where people can relax, rejuvenate, and reconnect with themselves after the day’s challenges.",
-        "Inspired by the rich artistry of Bengal and the natural beauty of the Eastern Himalayas, we proudly collaborate with artisans to preserve traditional embroidery and weaving techniques while presenting them to global markets.",
-        "We are committed to:",
+        // "Inspired by the rich artistry of Bengal and the natural beauty of the Eastern Himalayas, we proudly collaborate with artisans to preserve traditional embroidery and weaving techniques while presenting them to global markets.",
+        // "We are committed to:",
         "Empowering women artisans through sustainable livelihoods",
         "Celebrating craftsmanship and traditions rooted in nature",
         "Creating elegant, eco-conscious designs that bring beauty and tranquility to everyday spaces",

@@ -79,9 +79,9 @@ export default function Home() {
         })}
       />
       <BlogSlider />
-      <ComboProductSlider  title="Combo Packs"
+      {/* <ComboProductSlider  title="Combo Packs"
         subTitle="Look out our latest combo"
-        productList={comboProductlist}/>
+        productList={comboProductlist}/> */}
       <Faq />
       <Footer />
 

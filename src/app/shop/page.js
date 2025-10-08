@@ -24,7 +24,7 @@ const Page = () => {
   const [showMobileFilter, setShowMobileFilter] = useState(false);
   const [products, setProductList] = useState([]);
   const [showLoader, setShowLoader] = useState(false);
- const [priceRange, setPriceRange] = useState([0, 500]);
+ const [priceRange, setPriceRange] = useState([0, 5000]);
 
      const [payload, setPayload] = useState({ pageCount: 10, pageNo: 1 });
      const [statics, setStatics] = useState({ totalCount: 0 });
