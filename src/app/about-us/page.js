@@ -121,12 +121,7 @@ const page = () => {
               from rural backgrounds, Avirose creates delicate embroidery and
               handcrafted products that reflect calm, comfort, and a deep
               connection to nature. <br />
-              Each creation—whether home linens, décor, accessories, or
-              thoughtful gifts—is inspired by Bengal’s rich art forms and the
-              vibrant flora of the Eastern Himalayas. Every piece is not just
-              handmade—it is heart-made. <br />
-              At its core, Avirose is a story of heritage revived, nature
-              reimagined, and women empowered.
+              
             </p>
           </div>
           <div className="col-md-6  col-12 px-0 px-md-2">
@@ -136,6 +131,12 @@ const page = () => {
               }
               className="img-fluid w-100"
             />
+            <p className="mt-2">Each creation—whether home linens, décor, accessories, or
+              thoughtful gifts—is inspired by Bengal’s rich art forms and the
+              vibrant flora of the Eastern Himalayas. Every piece is not just
+              handmade—it is heart-made. <br />
+              At its core, Avirose is a story of heritage revived, nature
+              reimagined, and women empowered.</p>
           </div>
         </div>
         <div className="row">
@@ -181,7 +182,7 @@ const page = () => {
           </div>
         </div>
 
-        <div className="container py-5">
+        {/* <div className="container py-5">
           <h2 className="text-center mb-5"> Quality, Innovation & Capacity</h2>
 
           <h5 className="text-danger">Advanced Manufacturing Facility</h5>
@@ -239,9 +240,9 @@ const page = () => {
               </p>
             </div>
           </div>
-        </div>
+        </div> */}
 
-        <div className="row my-5 ">
+        {/* <div className="row my-5 ">
           <div className="col-md-6 col-12 p-2">
             <div
               className="p-3 h-100 py-5 "
@@ -282,9 +283,9 @@ const page = () => {
               </p>
             </div>
           </div>
-        </div>
+        </div> */}
 
-        <div className="container py-5">
+        {/* <div className="container py-5">
           <h2 className="text-center mb-5">Our Clients</h2>
 
           <h5 className="text-danger mb-4">We proudly cater to:</h5>
@@ -342,7 +343,7 @@ const page = () => {
               </p>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <div className="container py-5">
           <h2 className="text-center mb-4">Let’s Work Together</h2>
